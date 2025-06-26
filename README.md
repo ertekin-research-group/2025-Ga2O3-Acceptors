@@ -4,7 +4,7 @@ This repository hosts the computed atomic structures and analyzed data for the s
 
 ## Repository Contents
 
-### A) Relaxed Structures of Substitutional Acceptors:**
+### A) Relaxed Structures of Substitutional Acceptors:
 Contains atomic structures of eight substitutional acceptors (Au, Ca, Co, Cu, Fe, Mg, Mn, and Ni) on Ga sites in their most stable configuration, in VASP POSCAR format (`.vasp`).
 
 ### B) CI-NEB Calculations for Acceptor Diffusion
